@@ -2,7 +2,7 @@
    <h1>DiscordChatExporterPy</h1>
 
    <p>
-      A Library to Export your Discord Chats to a HTML File via your Python-Bot!
+      A Library to Export your Discord Chats to a HTML File via your Python-Bot! Not
    </p>
    <p>
       <a href="#installation">Get Started</a>
